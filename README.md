@@ -18,7 +18,7 @@
 
 ![Project Image](./assets/00-demo.gif)
 
-<!-- - [Video Demonstration](https://drive.google.com/file/d/1NIc6IyRKyQPc2nqJXWLPUDYkHPwqKYMS/view?usp=sharing) -->
+- [Website Deployment](https://texteditorapp.herokuapp.com/)
 
 
 ---
